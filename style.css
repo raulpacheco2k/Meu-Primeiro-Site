@@ -1,0 +1,88 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Trebuchet MS';
+	text-decoration: none;
+}
+#corpo{
+	min-width: 150px;
+	max-width: 1400px;
+	width: 100%;
+	margin: 0px auto;
+}
+#topo{
+	padding: 50px;
+	text-align: center;
+	background: #8B0000;
+	color: white;
+}
+#menu{
+	text-align: center;
+	padding: 15px;
+	background: #B22222;
+}
+#menu a{
+	padding: 20px;
+	color: black;
+}
+#menu a:hover{
+	color: white;
+}
+#conteudo{
+	margin: 10px;
+	border: 3px solid #8B0000;
+	padding: 50px;
+	min-height: 292px;
+}
+#rodape{
+	text-align: center;
+	background: #8B0000;
+	color: white;
+	padding: 5px;
+	font-size: 12px;
+	clear: both;
+}
+#raul{
+	border-radius:350px 350px 350px 350px;
+	float: left;
+}
+#rs{
+	float: left;
+	padding-left: 200px;
+}
+.zoom{
+	padding: 10px;
+	margin: 10px;
+	width: 100px;
+	float: left;
+	border-bottom: 3px solid black;
+	text-align:center;
+	border-radius:350px 350px 350px 350px;
+}
+.zoom:hover{
+	border-bottom: 8px solid #8B0000;
+	border-radius: 50px 50px 50px 50px;
+}
+#telefone{
+	padding-right: 200px;
+}
+#mapa{
+	border: 3px solid #8B0000;
+}
+.edit{
+	border-radius:10px; 
+	width: 350px;
+	height: 30px;
+	text-align: center;
+}
+#enviar{
+	margin: 20px;
+	background: #8B0000;
+	color: white;
+}
+#mensagem{
+	height: 100px;
+}
+#telefone{
+	padding-left: 440px;
+}
